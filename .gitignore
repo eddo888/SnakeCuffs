@@ -1,0 +1,4 @@
+cffi_example.c
+*.o
+cython_wrapper.cpp
+*.so
