@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+print("usage: invoke all")
+
 """ Task definitions for invoke command line utility for python bindings
     overview article. """
 import os, sys, re, cffi, invoke, pathlib
