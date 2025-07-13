@@ -2,3 +2,4 @@ cffi_example.c
 *.o
 cython_wrapper.cpp
 *.so
+cython-test
